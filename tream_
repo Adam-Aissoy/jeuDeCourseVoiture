@@ -1,0 +1,167 @@
+[33mcommit ec151fcebdbd2fb3e4106c8454f30ef9cdb914c8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Adam Aysoy <adamaysoy@UBUNTU.myguest.virtualbox.org>
+Date:   Tue Mar 7 04:27:22 2023 +0100
+
+    ajout Aysoy
+
+[33mcommit 1860bcd82a175a25790198a80cb98f1b87d7a20b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 12:29:54 2023 +0100
+
+    commentaire couleur.h
+
+[33mcommit 75bf334be76e4c6d34768d595d4af9d66833b127[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Tue Mar 7 12:07:55 2023 +0100
+
+    update
+
+[33mcommit bdd516bfbfcdec6f005760bfd6f2863aa67cd138[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Tue Mar 7 11:58:37 2023 +0100
+
+    update file.o
+
+[33mcommit 073adda4611227734535756c653d43a236fe185d[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Tue Mar 7 11:42:31 2023 +0100
+
+    update VoitureJoueur & Couleur
+
+[33mcommit 2d1f9fed1c19a23449e9ada5e9aa6202681a91e6[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 10:44:23 2023 +0100
+
+    update des set de couleur
+
+[33mcommit dde7666a41df3d15e27dfd21e7ad6e697f0dfd0e[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Tue Mar 7 10:43:24 2023 +0100
+
+    add Jeu.h & Jeu.cpp
+
+[33mcommit e854077284815af9dfa2a0829b023df4794bf991[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 10:09:58 2023 +0100
+
+    gitignore pour la doc
+
+[33mcommit fd60877677809f06356216b9ad127437ff8575cc[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 10:07:11 2023 +0100
+
+    update VoitureBot (commentaire+ debut fonction)
+
+[33mcommit aaa22bf2d42dbcf0103091485b38b7685633427d[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 09:37:12 2023 +0100
+
+    update doc main page
+
+[33mcommit 7c221a262b885094d958825f469189f8abf932e4[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 09:34:15 2023 +0100
+
+    main page doc
+
+[33mcommit fa799f4bb6363d53db4a8550635d6042bc6e07c4[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Tue Mar 7 09:31:06 2023 +0100
+
+    add VoitureJoueur & Couleur
+
+[33mcommit 19d5bfd17d6b26c4518d798245e07a4f361ec6d4[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 09:28:42 2023 +0100
+
+    documentation
+
+[33mcommit 691dd6d69da14e8ba70a30e711ee5a3d13491096[m
+Author: adamaysoy <adamaysoy@UBUNTU.myguest.virtualbox.org>
+Date:   Tue Mar 7 01:13:03 2023 +0100
+
+    new version
+
+[33mcommit 2f8f514d5f93eaf2f0fbf368e4a06176c61ecbff[m
+Author: ADAM OUMAR ADAM p2110686 <oumar-adam.adam@etu.univ-lyon1.fr>
+Date:   Tue Mar 7 08:21:13 2023 +0000
+
+    Delete VoitureBot.h
+
+[33mcommit a48bb5039d8e9020f90c9c475ffbc1ec5d44a175[m
+Author: ADAM OUMAR ADAM p2110686 <oumar-adam.adam@etu.univ-lyon1.fr>
+Date:   Tue Mar 7 08:21:05 2023 +0000
+
+    Delete VoitureBot.cpp
+
+[33mcommit 3a3a4fbf949fb410944e39c3dbcd5f677421f346[m
+Author: adamaysoy <adamaysoy@UBUNTU.myguest.virtualbox.org>
+Date:   Tue Mar 7 00:54:45 2023 +0100
+
+    firt update
+
+[33mcommit 1c0ec9b0c72ff91bcde96a74f3224732b3ac202f[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 09:01:01 2023 +0100
+
+    ajout VoitureBot.cpp
+
+[33mcommit 7a1518b429c10d16dbbb897cfabd5ed70fa67f9d[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 08:59:39 2023 +0100
+
+    ajout VoitureBot.cpp
+
+[33mcommit d3c32b01a3960b4fa9f432b3c2db508989ac6123[m
+Author: YVARS ARTHUR p2006219 <p2006219@b710l0517.univ-lyon1.fr>
+Date:   Tue Mar 7 08:53:17 2023 +0100
+
+    ajout VoitureBot.h
+
+[33mcommit 49c98d4fc7108707ef4c1376ff9c21149a7ee75b[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Wed Mar 1 11:15:10 2023 +0100
+
+    add makefile
+
+[33mcommit b9c4b24259a0f27916aae446fd97d2fe7a85be92[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Wed Mar 1 11:11:43 2023 +0100
+
+    add data
+
+[33mcommit fb3b39620b910149dc946dd85be11030fc6227fa[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Wed Mar 1 11:11:12 2023 +0100
+
+    add obj
+
+[33mcommit 47575a92206d6f91ba87ab2bd4553c693d6b66b4[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Wed Mar 1 11:10:40 2023 +0100
+
+    add doc
+
+[33mcommit cdbce501a2aebd13b2a3b6254e79dd0c00228e4f[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Wed Mar 1 11:07:44 2023 +0100
+
+    add bin
+
+[33mcommit c267d9422460f5e51944ea1499ddf612ae7ae86d[m
+Author: dinhsc <dinhc692@gmail.com>
+Date:   Wed Mar 1 11:06:09 2023 +0100
+
+    add src
+
+[33mcommit 3e55ef554f2717767eab2d0ead8a24b37f64e63e[m
+Author: ADAM OUMAR ADAM p2110686 <oumar-adam.adam@etu.univ-lyon1.fr>
+Date:   Tue Feb 28 10:27:41 2023 +0000
+
+    Add new file
+
+[33mcommit 24f17fbadb00731225f085a3c3f8883d13a4bcf3[m
+Author: ADAM OUMAR ADAM p2110686 <oumar-adam.adam@etu.univ-lyon1.fr>
+Date:   Tue Feb 28 10:24:23 2023 +0000
+
+    Initial commit
